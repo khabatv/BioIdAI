@@ -6,7 +6,7 @@
 
 A modern, fast, fully client-side web tool that instantly resolves chemical names, biological entities, and identifiers using AI.
 
-**Live Demo**: https://bioidai.vercel.app *(coming in 60 seconds after you deploy)*
+**Live Demo**: https://bioidai-luxbj6wqm-rozs-projects-27709bcd.vercel.app
 
 ### Features
 - Resolve any compound name → PubChem CID, SMILES, InChI, molecular formula  
